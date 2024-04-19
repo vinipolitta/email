@@ -14,7 +14,7 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v4
 
-      #Adicione aqui os passos para construir seu projeto, como instalação de dependências, testes, etc.
+      #Adicione aqui os passos para construir seu projeto, como instalação de dependências, testes
 
   deploy:
     name: 🎉 Deploy
